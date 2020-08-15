@@ -2,7 +2,7 @@
 
 Скрипт простой авторизации
 
-№ SQL
+# SQL
 
 SELECT email
 FROM  users
